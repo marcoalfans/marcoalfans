@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1455" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1389" class="">
     <defs>
         <style/>
     </defs>
@@ -31,7 +31,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            158 Commits
+                            162 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    435 MB used
+                                    436 MB used
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.3087811118299" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="282.3087811118299" y="0" width="74.20044846757365" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="356.50922957940355" y="0" width="43.38193191269961" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="399.89116149210315" y="0" width="26.01242284363463" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="425.9035843357378" y="0" width="19.384130473906676" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.2877148096444" y="0" width="14.372189173545276" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.6599039831897" y="0" width="0.29713651994999735" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="459.95704050313964" y="0" width="0.04295949686024057" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.8968168915909" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="272.8968168915909" y="0" width="71.07803358860575" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="343.9748504801967" y="0" width="58.445739547591934" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="402.42059002778865" y="0" width="24.91779905358484" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="427.33838908137346" y="0" width="18.568430587213516" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.90681966858693" y="0" width="13.767395830032934" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.67421549861984" y="0" width="0.28463277488999184" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="459.95884827350983" y="0" width="0.0411517264901193" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -252,8 +252,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>630 kB</div>
-                                <div>61.37%</div>
+                                <div>636 kB</div>
+                                <div>59.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -264,8 +264,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>96.9 kB</div>
-                                <div>9.43%</div>
+                                <div>136 kB</div>
+                                <div>12.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -277,7 +277,7 @@
                             </div>
                             <small>
                                 <div>43.3 kB</div>
-                                <div>4.21%</div>
+                                <div>4.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -303,7 +303,7 @@
                             </div>
                             <small>
                                 <div>165 kB</div>
-                                <div>16.13%</div>
+                                <div>15.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -315,7 +315,7 @@
                             </div>
                             <small>
                                 <div>58.1 kB</div>
-                                <div>5.65%</div>
+                                <div>5.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -327,7 +327,7 @@
                             </div>
                             <small>
                                 <div>32.1 kB</div>
-                                <div>3.12%</div>
+                                <div>2.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2432,6 +2432,166 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#ae4aea2</div>
+                                        <div class="message">feat: Transform chatbot to focus on Desa Manud Jaya tourism and UMKM
+
+- Change chatbot identity from general travel to village-specific guide
+- Focus on Desa Manud Jaya tourism, local UMKM products, and village experiences
+- Promote local economy through UMKM product recommendations
+- Include village-specific attractions: nature spots, cultural activities, local crafts
+- Add context for authentic rural experiences and community-based tourism
+- Support local entrepreneurs and traditional businesses
+- Maintain Indonesian language with warm, community-focused tone
+
+Features:
+- Village tourism guide for Desa Manud Jaya
+- UMKM product recommendations and promotions
+- Local culinary specialties and traditional crafts
+- Homestay and rural accommodation suggestions
+- Community-based tourism activities
+- Cultural heritage and traditional events information
+
+Benefits:
+- Boost village economy through digital promotion
+- Support local UMKM businesses
+- Preserve and promote traditional culture
+- Attract visitors to rural tourism destinations</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">marcoalfans/manud-be</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c2cd51b</div>
+                                        <div class="message">feat: Convert chatbot to Indonesian language
+
+- Convert all system prompts to Indonesian language
+- Update error messages to Indonesian
+- Change chatbot responses to Indonesian
+- Maintain travel-focused assistance in Indonesian
+- Update reset chat functionality with Indonesian messages
+
+Features:
+- Indonesian language chatbot for ManudBE travel assistant
+- Local travel recommendations in Indonesian
+- Cultural and culinary advice in native language
+- User-friendly Indonesian error messages
+- Better accessibility for Indonesian users
+
+Testing:
+- ✅ Yogyakarta travel recommendations in Indonesian
+- ✅ Indonesian food suggestions (Gudeg, Sate Klathak, etc.)
+- ✅ Error handling in Indonesian language
+- ✅ Natural Indonesian conversation flow</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">marcoalfans/manud-be</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4214f6a</div>
+                                        <div class="message">fix: Fix chatbot system with Gemini 2.0 Flash model
+
+- Upgrade from deprecated gemini-pro to gemini-2.0-flash model
+- Remove authentication requirement for public chatbot access
+- Add comprehensive error handling with user-friendly messages
+- Implement chat history memory management (limit to 10 exchanges)
+- Add reset chat history functionality
+- Improve AI prompt for better travel-focused responses
+- Fix API response cleaning and formatting
+
+Features:
+- Public access chatbot (no login required)
+- Fast and accurate travel recommendations
+- Specialized in Indonesian and global travel advice
+- Memory-efficient chat history management
+- Graceful error handling for various API issues
+
+Testing:
+- ✅ Travel recommendations (Bali, Indonesia food)
+- ✅ Public access without authentication
+- ✅ Error handling and model availability
+- ✅ Response time and quality</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">marcoalfans/manud-be</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e1c8f81</div>
+                                        <div class="message">feat: Implement Firebase email verification system
+
+- Add Firebase Authentication integration with Email/Password provider
+- Implement async email verification with custom tokens
+- Add resend verification email functionality
+- Create Firebase email verification success page endpoint
+- Add development mode auto-verification (EMAIL_AUTO_VERIFY)
+- Optimize email service with connection pooling and retry mechanism
+- Add Firebase Functions setup for future email service expansion
+- Fix registration API performance (1-1.1 seconds response time)
+- Support both Firebase Auth and custom token verification methods
+
+Changes:
+- Enhanced auth.model.js with Firebase Auth user creation
+- Updated auth.controller.js with Firebase verification endpoints
+- Improved email.service.js with better timeout and retry logic
+- Added email-verified success page route
+- Updated config.js with email service toggles
+- Added Firebase Functions scaffolding for future email features</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">marcoalfans/manud-be</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#49d2ed9</div>
                                         <div class="message">feat: Add email verification system with Gmail integration
 
@@ -2461,146 +2621,6 @@ API Base URL: http://manudaja.my.id:7777</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">marcoalfans/manud-be</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aea1ec4</div>
-                                        <div class="message">feat: Complete ManudBE API setup with Firebase integration
-
-✅ Rebranding: Melancong → ManudBE
-✅ Firebase: Firestore database integration for manud-db-f253e project
-✅ Authentication: Register/login with bcrypt password hashing and JWT tokens
-✅ OAuth: Google authentication with proper redirect URI configuration
-✅ Deployment: Production-ready setup with Digital Ocean and PM2
-✅ API: All endpoints functional (auth, destinations, test, oauth)
-✅ Security: CORS, rate limiting, and proper error handling
-
-- Updated Firebase service account credentials for manud-db-f253e
-- Configured OAuth redirect URI for manudaja.my.id:7777
-- Implemented Firestore-based user registration and authentication
-- Added test endpoint for Firebase connectivity verification
-- Modified auth model to use Firebase Admin SDK with bcrypt
-- Updated package dependencies and environment configuration
-
-API accessible at: http://manudaja.my.id:7777</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40ffe2d</div>
-                                        <div class="message">Configure Firebase and environment for production
-
-- Updated Firebase service account configuration
-- Added Google AI API key (Gemini)
-- Set OAuth credentials for localhost development
-- Updated JWT secret with secure generated key
-- Setup PM2 for production deployment
-- Application successfully running on Digital Ocean VPS
-
-Status: API endpoints functional, Firebase auth needs web config completion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee52129</div>
-                                        <div class="message">Rebrand from Melancong to ManudBE
-
-- Updated application name and branding throughout codebase
-- Changed API welcome message and response structure
-- Updated chatbot context from Bali-specific to general travel assistant
-- Modified OAuth callback URLs for local development
-- Added comprehensive Digital Ocean deployment documentation
-- Updated README with Digital Ocean deployment focus
-- Enhanced environment configuration examples</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">marcoalfans/manud-fe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2fff7be</div>
-                                        <div class="message">fix: Resolve ESLint errors and build issues
-
-- Fix syntax errors in wisata page
-- Add missing curly braces for if statements in navigation components
-- Resolve unused variable warnings with ESLint disable comments
-- Add missing exports to data/index.ts
-- Add missing properties to Destination interfaces
-- Update husky pre-commit hook configuration
-- Update package-lock.json with latest dependencies</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">marcoalfans/manud-fe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0af3a47</div>
-                                        <div class="message">feat: Fira's add change</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d42efe2</div>
-                                        <div class="message">feat: Add another feature</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">marcoalfans/manud-fe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4eadc28</div>
-                                        <div class="message">Merge pull request #1 from marcoalfans/fira-dev
-
-fix: replace project with correct files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b9ac65</div>
-                                        <div class="message">fix: replace project with correct files</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2624,7 +2644,7 @@ fix: replace project with correct files</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2025, 22:15:19 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2025, 23:18:50 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
