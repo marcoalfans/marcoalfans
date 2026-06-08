@@ -1,11 +1,3 @@
-<h1 align="center">Hi, I'm Marco 👋</h1>
-
-<p align="center">
-  <b>Red Team &nbsp;•&nbsp; Threat Intelligence &nbsp;•&nbsp; Web Developer</b>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 - 🔴 Focused on **Red Team** operations and adversarial simulation
