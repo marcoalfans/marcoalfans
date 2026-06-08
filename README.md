@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marcoalfans&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies">
-</p>
-
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-E2231A?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
