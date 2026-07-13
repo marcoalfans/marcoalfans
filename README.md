@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/light.svg?v=5">
-  <img alt="Marco Alfan (kac0) - offensive security, red team, threat intelligence, mentor and trainer" src="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/dark.svg?v=5" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/light.svg?v=6">
+  <img alt="Marco Alfan (kac0) - offensive security, red team, threat intelligence, mentor and trainer" src="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/dark.svg?v=6" width="100%">
 </picture>
 
 <br/><br/>
