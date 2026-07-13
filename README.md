@@ -1,17 +1,3 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/dark.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/light.svg?v=6">
-  <img alt="Marco Alfan (kac0) - offensive security, red team, threat intelligence, mentor and trainer" src="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/dark.svg?v=6" width="100%">
-</picture>
-
-<br/><br/>
-
-**[Portfolio](https://marcoalfans.github.io)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/marcoalfans/)** &nbsp;·&nbsp; **[HackTheBox](https://app.hackthebox.com/users/3047827)** &nbsp;·&nbsp; **[Writeups](https://marcoalfans.github.io/writeups)**
-
-<br/>
-
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-E2231A?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
@@ -24,6 +10,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/marcoalfans/marcoalfans/main/github-metrics.svg" alt="GitHub Metrics">
-
-</div>
+<p align="center">
+  <img src="https://github.com/marcoalfans/marcoalfans/blob/main/github-metrics.svg" alt="GitHub Metrics">
+</p>
